@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amt:home|Door43 (amt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amt|d43-amt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amt/archive/master.zip|d43-amt.zip]]
+
+**Recent Changes**
+{{changes>ns = amt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amt|Ethnologue data]]
+
